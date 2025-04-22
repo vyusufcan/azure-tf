@@ -1,0 +1,8 @@
+subscription_id      = ""
+resource_group_name  = "zg1-rtx-dce-npd01-x12d1-clddem"
+location             = "West US 2"
+virtual_network_name = "x12d1clddemvnet01"
+subnet_name          = "x12d1clddemvnet01-subnet01"
+loadbalancer_name    = "test"
+lbrule_name          = "test"
+source_image_id      = "/subscriptions/448872e8-7a42-4889-b3aa-c074a58776d7/resourceGroups/zg1-rtx-mgt-pro01-x10p1-cldimg/providers/Microsoft.Compute/galleries/x10p1cldimgig01/images/Windows.2019.V2"
